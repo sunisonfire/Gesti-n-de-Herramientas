@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nombre": "Danna",
+        "apellido": "Tellez",
+        "telefono": 3337074163,
+        "direccion": "Ca\u00f1averal",
+        "tipoUsuario": "Residente"
+    },
+    {
+        "id": 2,
+        "nombre": "Isabella",
+        "apellido": "Gualdron",
+        "telefono": 3213279097,
+        "direccion": "Cumbre",
+        "tipoUsuario": "Residente"
+    },
+    {
+        "id": 3,
+        "nombre": "Mario",
+        "apellido": "Rojas",
+        "telefono": 5555555555,
+        "direccion": "lagos 3",
+        "tipoUsuario": "Residente"
+    }
+]

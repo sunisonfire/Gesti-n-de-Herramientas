@@ -1,0 +1,76 @@
+[
+    {
+        "id": 1,
+        "nombre": "Taladro",
+        "categoria": "construccion",
+        "estado": "disponible",
+        "stock": 1,
+        "prestamos": "devuelta",
+        "precio de alquiler": 5000
+    },
+    {
+        "id": 2,
+        "nombre": "Martillo",
+        "categoria": "construccion",
+        "estado": "disponible",
+        "stock": 3,
+        "prestamos": "devuelta",
+        "precio de alquiler": 2000
+    },
+    {
+        "id": 3,
+        "nombre": "Pala",
+        "categoria": "jardineria",
+        "estado": "disponible",
+        "stock": 6,
+        "prestamos": "devuelta",
+        "precio de alquiler": 3000,
+        "prestada": ""
+    },
+    {
+        "id": 4,
+        "nombre": "llave inglesa",
+        "categoria": "construccion",
+        "estado": "disponible",
+        "stock": 3,
+        "prestamos": "devuelta",
+        "precio de alquiler": 2500
+    },
+    {
+        "id": 5,
+        "nombre": "alicate",
+        "categoria": "construccion",
+        "estado": "disponible",
+        "stock": 1,
+        "prestamos": "devuelta",
+        "precio de alquiler": 1500,
+        "prestada": ""
+    },
+    {
+        "id": 7,
+        "nombre": "jarron",
+        "categoria": "jardineria",
+        "estado": "disponible",
+        "stock": 6,
+        "prestamos": "devuelta",
+        "precio de alquiler": 4000
+    },
+    {
+        "id": 9,
+        "nombre": "Tubo de plomo",
+        "categoria": "construccion",
+        "precio de alquiler": 2500,
+        "estado": "disponible",
+        "stock": 1,
+        "prestamos": "devuelta"
+    },
+    {
+        "id": 10,
+        "nombre": "Manguera",
+        "categoria": "jardineria",
+        "precio de alquiler": 1500,
+        "estado": "disponible",
+        "stock": 5,
+        "prestamos": "devuelta"
+    }
+]
