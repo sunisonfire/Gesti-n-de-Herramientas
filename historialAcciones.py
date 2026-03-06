@@ -1,7 +1,7 @@
 from gestionarJson import cargar, guardar, generar_id
 
 def log(accion, descripcion, fecha, usuario):
-    ARCHIVO = "logs.json"
+    ARCHIVO = "historial.json"
     lista=cargar(ARCHIVO)
     lista.append({
         "id": generar_id(lista),
